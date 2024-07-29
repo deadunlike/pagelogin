@@ -1,22 +1,21 @@
 # PokeCars
 
-Este projeto é um Gerador de Cartões de Pokémon desenvolvido com tecnologias de front-end, incluindo HTML, CSS e JavaScript. A aplicação permite que os usuários gerem diferentes cartões de Pokémon ao clicar em um botão.
+Este projeto é uma página de login estilizada para a Riot Games, desenvolvida utilizando tecnologias de front-end como HTML e CSS. A página proporciona uma interface de usuário simples e intuitiva para login, com opções de recuperação de senha e registro.
 
 ## Tecnologias usadas
 
 - [x] HTML: Estruturação do conteúdo da página.
-- [x] CSS: Estilização e apresentação visual utilizando a fonte "Poppins" do Google Fonts.
-- [x] JavaScript: Adição de interatividade e lógica para a geração dos cartões.
+- [x] CSS: Estilização e apresentação visual da interface de login.
 
 ## Funcionalidade
 
-- [x] Gerador de Cartões: A aplicação contém um botão que, quando clicado, gera um novo cartão de Pokémon.
-- [x] Estilos Personalizados: Utiliza um arquivo CSS externo para estilizar o layout e a aparência dos cartões e do botão.
-- [x] Interatividade: A lógica de geração dos cartões é gerida por um script JavaScript externo, que manipula o conteúdo exibido no cartão.
+- [x] Formulário de Login: Contém campos para o nome de usuário e senha, com validação básica.
+- [x] Lembre-me e Esqueci minha senha: Opção para lembrar o usuário e link para recuperação de senha.
+- [x] Botão de Login: Envia as informações do formulário para autenticação.
+- [x] Opções de Login Social: Botões para login com Google, Facebook e Apple.
+- [x] Link de Registro: Redireciona o usuário para uma página de criação de conta. 
 
 ## Estrutura do Projeto
 
-index.html: Estrutura básica do documento HTML, incluindo links para os arquivos de estilo e script.
-style.css: Arquivo CSS externo que define os estilos para os elementos da página.
-script.js: Arquivo JavaScript externo que contém a lógica para a geração dos cartões de Pokémon.
-
+index.html: Estrutura básica do documento HTML, incluindo links para o arquivo de estilo.
+style.css: Arquivo CSS externo que define os estilos para os elementos da página de login.
