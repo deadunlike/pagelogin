@@ -1,4 +1,4 @@
-# PokeCars
+# Login Riot
 
 Este projeto é uma página de login estilizada para a Riot Games, desenvolvida utilizando tecnologias de front-end como HTML e CSS. A página proporciona uma interface de usuário simples e intuitiva para login, com opções de recuperação de senha e registro.
 
